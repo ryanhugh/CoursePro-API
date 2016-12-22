@@ -104,7 +104,7 @@ Response:
 POST https://coursepro.io/listClasses
 -----------------------
 
-To get a dump of all of the subjects in a term send a GET request to https://coursepro.io/listClasses/neu.edu/201710  
+To get a dump of all of the classes in a term send a GET request to https://coursepro.io/listClasses/neu.edu/201710  
 The data here might be a couple of days older than the data from the post requests. 
 
 Request:
@@ -153,7 +153,7 @@ Response:
 POST https://coursepro.io/listSections
 -----------------------
 
-To get a dump of all of the subjects in a term send a GET request to https://coursepro.io/listSections/neu.edu/201710  
+To get a dump of all of the sections in a term send a GET request to https://coursepro.io/listSections/neu.edu/201710  
 The data here might be a couple of days older than the data from the post requests. 
 
 Request:
