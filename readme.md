@@ -1,7 +1,8 @@
 CoursePro.io API
 =================================================
 API to access all of the class data available at CoursePro.io.   
-This has been depreciated in favor of the Search NEU API. All the data here is also availible from the Search NEU API. Check out the documentation at https://github.com/ryanhugh/searchneu/blob/master/docs/API.md !
+
+**This has been depreciated in favor of the Search NEU API. All the data here is also availible from the Search NEU API. Check out the documentation at https://github.com/ryanhugh/searchneu/blob/master/docs/API.md !**
 
 
 
